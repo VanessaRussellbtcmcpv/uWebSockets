@@ -9,3 +9,5 @@ This folder holds some unit tests and a smoke test. These are run by GitHub Acti
 * And of course in this folder you can find the very **module unit tests** that check individual modules.
 * Customers and users indirectly feed us with **real world, high scale production testing**.
 * Semmle perform **static code analysis** and security testing for us, where we get the perfect A+ score.
+
+<!-- Auto-update: 2025-10-11T11:49:51.490232 -->
